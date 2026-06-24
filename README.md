@@ -34,10 +34,6 @@ Working in a command line environment is recommended for ease of use with git an
 
 **GitHub repository:** https://github.com/Sahara65/Deploying-a-Scalable-ML-Pipeline-with-FastAPI
 
-> Paste your public GitHub repository URL above and in the "Submission Details"
-> box when you submit. The repository must be public so the reviewer can view
-> the commit history and releases.
-
 ## How to run this project
 
 1. Create the environment and install dependencies:
